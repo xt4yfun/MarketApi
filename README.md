@@ -27,7 +27,7 @@ Projeyi yerel ortamınıza kurmak için aşağıdaki adımları izleyin:
 1. **Proje Deposunu Klonlayın**:
    ```sh
    git clone https://github.com/xt4yfun/MarketApi.git
-   cd proje_adi
+   cd MarketApi
    ```
 
 2. **Gerekli Paketleri Yükleyin**:
